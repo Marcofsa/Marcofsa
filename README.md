@@ -23,10 +23,13 @@ Here are some ideas to get you started:
                 - 🎮 My hobby: I like to Play Xbox!
             </p>
             <p>
-                - 🧠 I’m currently working with C# .Net;
+                - 🧠 I’m currently working with C# .Net.
             </p>
             <p>
-                - 🔭 I’m looking for professional growth the sky is not the limit!
+                - 🔭 I’m looking for professional growth! 
+            </p>
+            <p>
+                - 🚀 The sky is not the limit!
             </p>
             <p>
                 - 📫 Here's how you can reach me 👇🏻
