@@ -1,4 +1,4 @@
-### Hi there! 🤓💻
+###
 
 <!--Readme_MS-->
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 
-## Hi! Welcome to my GitHub Profile!
+##  Hi there! and Welcome to my GitHub Profile! 🤓💻
 
 <div>
     <h1>I'm a Front-End/Back-End C# .Net | React JS | React Native | TypeScript Developer. (Full Stack Apprentice.)</h1>
