@@ -15,22 +15,23 @@ Here are some ideas to get you started:
 
 <div>
     <h1>I'm a Front-End/Back-End C# .Net | React JS | React Native | TypeScript Developer. (Full Stack Apprentice.)</h1>
-    
-    <p>
-        - 💻 I’m currently working at Atos Brazil
-    </p>
-    <p>
-        - 🎮 My hobby: I like to Play Xbox!
-    </p>
-    <p>
-        - 🧠 I’m currently working with C# .Net;
-    </p>
-    <p>
-        - 🔭 I’m looking for professional growth the sky is not the limit!
-    </p>
-    <p>
-        - 📫 Here's how you can reach me 👇🏻
-    </p>
+        <div>
+            <p>
+                - 💻 I’m currently working at Atos Brazil
+            </p>
+            <p>
+                - 🎮 My hobby: I like to Play Xbox!
+            </p>
+            <p>
+                - 🧠 I’m currently working with C# .Net;
+            </p>
+            <p>
+                - 🔭 I’m looking for professional growth the sky is not the limit!
+            </p>
+            <p>
+                - 📫 Here's how you can reach me 👇🏻
+            </p>
+          </div>  
 </div>
 
 <div>
