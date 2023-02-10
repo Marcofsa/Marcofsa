@@ -18,16 +18,7 @@ Here are some ideas to get you started:
         - 🔭 I’m currently working at Atos Brazil
     </p>
     <p>
-        - 🤔 I’m looking for help with ...
-    </p>
-    <p>
-        - 😄 Pronouns: ...
-    </p>
-    <p>
-        - ⚡ Fun fact: ...
-    </p>
-    <p>
-        - 💬 Ask me about ...
+        - ⚡ Fun fact: I like to Play Xbox!
     </p>
     <p>
         - 🧠 I’m currently working with C# .Net;
