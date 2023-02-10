@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div>
     <p>
-        - 🔭 I’m currently working at Atos Brazil
+        - 💻 I’m currently working at Atos Brazil
     </p>
     <p>
         - ⚡ Fun fact: I like to Play Xbox!
