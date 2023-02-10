@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 ## Hi! Welcome to my GitHub Profile!
 
 <div>
+    <h1>I'm a Front-End/Back-End C# .Net | React JS | React Native | TypeScript Developer. (Full Stack Apprentice.)</h1>
+    
     <p>
         - 💻 I’m currently working at Atos Brazil
     </p>
     <p>
-        - ⚡ Fun fact: I like to Play Xbox!
+        - 🎮 My hobby: I like to Play Xbox!
     </p>
     <p>
         - 🧠 I’m currently working with C# .Net;
