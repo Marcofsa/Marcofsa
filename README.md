@@ -40,7 +40,7 @@ Here are some ideas to get you started:
             target="_blank">
     </a>
     <a href="mailto:marcofsaoperacional@outlook.com">
-        <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white"
+        <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=blue"
             target="_blank">
     </a>
 
