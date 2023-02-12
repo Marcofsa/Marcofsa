@@ -20,7 +20,7 @@ Here are some ideas to get you started:
                 - 💻 I’m currently working at Atos Brazil
             </p>
             <p>
-                - 🎮 My hobby: I like to Play Xbox!
+                - 🎮 My hobby: I like to Play all kind of games, in special on Xbox!
             </p>
             <p>
                 - 🧠 I’m currently working with C# .Net.
