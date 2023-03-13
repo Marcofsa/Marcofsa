@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   
 <div align="center" style="display: inline_block">
   <h3> 
-    My favorite piece of tech:
+    My favorite piece of tech 👇🏻:
   </h3>
 <div align="center">
   <a href="https://github.com/Marcofsa">
@@ -65,6 +65,7 @@ Here are some ideas to get you started:
   <br>
   <a href="https://github.com/Marcofsa">
     <img align="center" alt="Marcos-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+    <img align="center" alt="Marcos-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
     <img align="center" alt="Marcos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
     <img align="center" alt="Marcos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
