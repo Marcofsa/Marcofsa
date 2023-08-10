@@ -23,7 +23,7 @@ Here are some ideas to get you started:
                 - 🎮 My hobby: I like to Play all kind of games, in special on Xbox!
             </p>
             <p>
-                - 🧠 I’m currently working with C# .Net.
+                - 🧠 I’m currently working with C# .Net and JavaScript.
             </p>
             <p>
                 - 🔭 I’m looking for professional growth! 
