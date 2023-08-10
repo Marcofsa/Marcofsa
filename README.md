@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ##  Hi there! and Welcome to my GitHub Profile! 🤓💻
 
 <div>
-    <h1>I'm a Front-End/Back-End C# .Net | React JS | React Native | TypeScript Developer. Full Stack.</h1>
+    <h1>I'm a C# .Net | React JS | React Native | TypeScript Developer. Full Stack.</h1>
         <div>
             <p>
                 - 💻 I’m currently working at Atos Brazil
