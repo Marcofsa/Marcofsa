@@ -23,7 +23,7 @@ Here are some ideas to get you started:
                 - 🎮 My hobby: I like to Play all kind of games, in special on Xbox!
             </p>
             <p>
-                - 🧠 I’m currently working with C# .Net, JavaScript and TypeScript (Full stack).
+                - 🧠 I’m currently working with Dynamics 365 C# .Net, JavaScript and TypeScript (FullStack).
             </p>
             <p>
                 - 🔭 I’m looking for professional growth! 
