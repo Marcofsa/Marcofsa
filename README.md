@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 <div>
     <h1>I'm a Dynamics 365 Cosultant | C# .Net | React | React Native | TypeScript | JavaScript | Developer. Full Stack Developer.</h1>
         <div>
-            <p>
-                - 💻 I’m currently working at Atos Brazil
-            </p>
-            <p>
+             <p>
                 - 🎮 My hobby: I like to Play all kind of games, in special on Xbox!
             </p>
             <p>
