@@ -8,14 +8,14 @@ Dynamics 365 Consultant · Senior .NET Developer · Full Stack Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=750&lines=Building+Scalable+Enterprise+Solutions;Dynamics+365+%7C+.NET+%7C+React+%7C+Azure;APIs+%7C+Microservices+%7C+Cloud+Architecture;Clean+Code+%7C+SOLID+%7C+Distributed+Systems" />
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/marcofsa/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Sá%20Filho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Sá%20Filho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:samarcosdev@gmail.com">
-  <img src="https://img.shields.io/badge/Outlook-Contact%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-samarcosdev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Marcofsa" target="_blank">
@@ -103,16 +103,6 @@ My main expertise is centered around the Microsoft ecosystem, especially C#, .NE
 
 </div>
 
----|---|---|---|
-| C# | React | Azure | Microservices |
-| .NET / ASP.NET Core | Angular | GCP | REST APIs |
-| Entity Framework | TypeScript | Docker | Clean Architecture |
-| Dapper | JavaScript | Kubernetes | SOLID |
-| SQL Server | HTML / CSS | Azure DevOps | CQRS |
-| PostgreSQL |  | CI/CD | Event-Driven |
-
-</div>
-
 🛠️ Tech Stack
 
 💻 Backend
@@ -156,17 +146,11 @@ My main expertise is centered around the Microsoft ecosystem, especially C#, .NE
 Enterprise Applications
         │
         ├── .NET / C#
-        │
         ├── Dynamics 365
-        │
         ├── REST APIs
-        │
         ├── Microservices
-        │
         ├── Cloud Services
-        │
         ├── Messaging & Events
-        │
         └── React / Angular
 
 My work is focused on creating solutions that are:
@@ -245,12 +229,12 @@ I'm always interested in discussing software architecture, .NET, Dynamics 365, c
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/marcofsa/">
-  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/marcofsa/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:samarcosdev@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20me%20an%20Email-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
