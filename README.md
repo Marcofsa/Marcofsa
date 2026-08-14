@@ -14,7 +14,7 @@ Dynamics 365 Consultant · Senior .NET Developer · Full Stack Engineer
   <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Sá%20Filho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:samarcosdev@outlook.com">
+<a href="mailto:samarcosdev@gmail.com">
   <img src="https://img.shields.io/badge/Outlook-Contact%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
