@@ -52,61 +52,64 @@ My main expertise is centered around the Microsoft ecosystem, especially C#, .NE
 
 <div align="center">
 
-Backend
+<table>
+  <thead>
+    <tr>
+      <th>⚙️ Backend</th>
+      <th>🎨 Frontend</th>
+      <th>☁️ Cloud & DevOps</th>
+      <th>🏗️ Architecture</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>C#</td>
+      <td>React</td>
+      <td>Azure</td>
+      <td>Microservices</td>
+    </tr>
+    <tr>
+      <td>.NET / ASP.NET Core</td>
+      <td>Angular</td>
+      <td>GCP</td>
+      <td>REST APIs</td>
+    </tr>
+    <tr>
+      <td>Entity Framework</td>
+      <td>TypeScript</td>
+      <td>Docker</td>
+      <td>Clean Architecture</td>
+    </tr>
+    <tr>
+      <td>Dapper</td>
+      <td>JavaScript</td>
+      <td>Kubernetes</td>
+      <td>SOLID</td>
+    </tr>
+    <tr>
+      <td>SQL Server</td>
+      <td>HTML / CSS</td>
+      <td>Azure DevOps</td>
+      <td>CQRS</td>
+    </tr>
+    <tr>
+      <td>PostgreSQL</td>
+      <td>React / TypeScript</td>
+      <td>CI/CD</td>
+      <td>Event-Driven</td>
+    </tr>
+  </tbody>
+</table>
 
-Frontend
+</div>
 
-Cloud & DevOps
-
-Architecture
-
-C#
-
-React
-
-Azure
-
-Microservices
-
-.NET / ASP.NET Core
-
-Angular
-
-GCP
-
-REST APIs
-
-Entity Framework
-
-TypeScript
-
-Docker
-
-Clean Architecture
-
-Dapper
-
-JavaScript
-
-Kubernetes
-
-SOLID
-
-SQL Server
-
-HTML / CSS
-
-Azure DevOps
-
-CQRS
-
-PostgreSQL
-
-
-
-CI/CD
-
-Event-Driven
+---|---|---|---|
+| C# | React | Azure | Microservices |
+| .NET / ASP.NET Core | Angular | GCP | REST APIs |
+| Entity Framework | TypeScript | Docker | Clean Architecture |
+| Dapper | JavaScript | Kubernetes | SOLID |
+| SQL Server | HTML / CSS | Azure DevOps | CQRS |
+| PostgreSQL |  | CI/CD | Event-Driven |
 
 </div>
 
