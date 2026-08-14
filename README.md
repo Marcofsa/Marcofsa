@@ -249,7 +249,7 @@ I'm always interested in discussing software architecture, .NET, Dynamics 365, c
   <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:samarcosdev@outlook.com">
+<a href="mailto:samarcosdev@gmail.com">
   <img src="https://img.shields.io/badge/Send%20me%20an%20Email-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
